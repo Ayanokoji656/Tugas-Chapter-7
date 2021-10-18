@@ -1,7 +1,4 @@
-# SI-AGATE-SurvivalShooter
-
-## Added Fixed Update
-- Player cant move after dead
-- Added Animation Game Over and Warning
-- Background Music
-## FILE BUILD TERDAPAT DI RELEASE ##
+ # SurvivalShooter
+## Update Note 
+menambahkan animasi game over
+menghilangkan bug yang ada di dalam game
